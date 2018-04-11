@@ -1,4 +1,4 @@
 <?php
 echo "Hello World!"
-echo "修改了test.php中的文件内容"
+echo " 这是版本1.0, 最终版本 version 1.0"
 ?>
